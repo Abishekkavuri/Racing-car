@@ -29,7 +29,7 @@ A python based Racing car game for a intermediate. you will learn python core co
    Clone the repo to your local system
      
    ```git
-   git clone https://github.com/Pavantext/Racing-Car-Game.git
+   git clone https://github.com/Abishekkavuri/Racing-car.git
    ```
    Make sure you have python installed on your system.
 
